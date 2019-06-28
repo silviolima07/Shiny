@@ -1,0 +1,12 @@
+name: Shiny3
+title: Shiny3
+username:
+account: rsilvio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 985773
+bundleId: 2160607
+url: https://rsilvio.shinyapps.io/Shiny3/
+when: 1560834308.38703
+asMultiple: FALSE
+asStatic: FALSE

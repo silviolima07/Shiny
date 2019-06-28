@@ -1,0 +1,12 @@
+name: Shiny2
+title: Shiny2
+username:
+account: rsilvio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 985766
+bundleId: 2160582
+url: https://rsilvio.shinyapps.io/Shiny2/
+when: 1560833380.51143
+asMultiple: FALSE
+asStatic: FALSE

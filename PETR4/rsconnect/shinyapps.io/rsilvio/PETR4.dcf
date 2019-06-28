@@ -1,0 +1,12 @@
+name: PETR4
+title: PETR4
+username:
+account: rsilvio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 974861
+bundleId: 2170615
+url: https://rsilvio.shinyapps.io/PETR4/
+when: 1561171696.95387
+asMultiple: FALSE
+asStatic: FALSE

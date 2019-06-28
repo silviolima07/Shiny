@@ -1,0 +1,12 @@
+name: Titanic_dash
+title: Titanic_dash
+username:
+account: rsilvio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 986743
+bundleId: 2162390
+url: https://rsilvio.shinyapps.io/Titanic_dash/
+when: 1560890792.06286
+asMultiple: FALSE
+asStatic: FALSE

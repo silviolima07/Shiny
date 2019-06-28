@@ -1,0 +1,12 @@
+name: Titanic
+title: Titanic
+username:
+account: rsilvio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 987016
+bundleId: 2162382
+url: https://rsilvio.shinyapps.io/Titanic/
+when: 1560890566.23164
+asMultiple: FALSE
+asStatic: FALSE
