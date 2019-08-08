@@ -1,0 +1,13 @@
+name: ANAC
+title: ANAC
+username:
+account: rsilvio
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1055320
+bundleId: 2296939
+url: https://rsilvio.shinyapps.io/ANAC/
+when: 1565141362.12889
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/PNG/Mala.png
